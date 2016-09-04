@@ -195,7 +195,3 @@ body {
       -ms-transform: rotate(360deg);
           transform: rotate(360deg);
 }*/
-.parallax-window {
-    min-height: 400px;
-    background: transparent;
-}
